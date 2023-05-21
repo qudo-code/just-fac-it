@@ -1,11 +1,15 @@
 {
   "name": "just-fac-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FAC it.",
   "main": "fac.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qudo-code/just-fac-it"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "qudo",
   "license": "ISC"
 }
